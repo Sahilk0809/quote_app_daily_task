@@ -4,7 +4,7 @@
 
 Factory constructors in Dart are flexible alternatives to generative constructors. Unlike generative constructors that always return a new instance, factory constructors allow greater control over the creation of objects. They can return instances of subclasses, new instances, or even existing instances.
 
-# Advantages of Factory constructor:-
+# Advantages :-
 
 -  Flexible alternatives to generative constructors.
 -  It is a named constructor.
@@ -77,7 +77,7 @@ void main(){
 In very simpler terms, models are just classes which help us to determine the structure of the data.
 Modal class in statistics refers to a class having the highest frequency. It refers to a class in which the frequency is the highest in a continuous quantitative statistical variable distribution in which the values are grouped into classes with similar dimensions.
 
-# Advantages
+# Advantages :-
 
 1) Readability
 - It's just easier to read and understand your code. You can create models like User, Subscription, Product, Location, which say much more then just a raw json.
