@@ -1,5 +1,3 @@
-# quote_app_daily_task
-
 # 17.1 Factory Constructor & Modal Class
 
 # 1. What is Factory Constructor?
