@@ -12,9 +12,7 @@ class _DialogueScreenState extends State<DialogueScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: SizedBox(
-          height: double.infinity,
-          width: double.infinity,
+        body: SizedBox.expand(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
