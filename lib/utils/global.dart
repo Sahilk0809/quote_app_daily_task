@@ -21,10 +21,11 @@ List invoiceDetails = [
 int selectedIndex = 0;
 
 List<Color> colorList = [
-  const Color(0xff000000),
-  const Color(0xffFF0000),
+  const Color(0xff00ffe1),
+  const Color(0xffff7c7c),
   const Color(0xff00FF00),
-  const Color(0xff0000FF),
+  const Color(0xff7878ff),
+  const Color(0xfff06cff),
 ];
 
 class QuoteModel {

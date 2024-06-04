@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:quote_app_daily_task/utils/global.dart';
 
-int i = 0;
+int i = -1;
 QuoteModel? quoteModel;
 
 class QuotesScreen extends StatefulWidget {
@@ -39,12 +39,13 @@ class _QuotesScreenState extends State<QuotesScreen> {
           child: Column(
             children: [
               ...List.generate(quoteList.length, (index) {
-                // setState(() {
-                //   if(i==3){
-                //     i=0;
-                //   }
-                //   i++;
-                // });
+                setState(() {
+                  i++;
+                  if(i==colorList.length){
+                    i=-1;
+                    i++;
+                  }
+                });
                 return Card(
                   color: colorList[i],
                   child: ListTile(
