@@ -110,3 +110,13 @@ Modal class in statistics refers to a class having the highest frequency. It ref
 <img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/8a8f5605-b3cf-4392-ab22-e0b642af0236" height=65% width=22%>
 
 https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/0ec0bdc9-4d8e-4538-aeaf-ef38dda07492
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Invoice Generator
+
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/b3ac1f73-55b9-47bd-9ef5-335753825ea0" height=65% width=22%>
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/d29db5b0-aa79-45d5-b887-5f1384f394e3" height=65% width=22%>
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/eb05e657-0af8-4173-87cb-a5e849027cef" height=65% width=22%>
+
+https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/9e858603-0be7-4c6b-b6e5-e1ae4f607101
