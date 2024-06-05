@@ -126,3 +126,11 @@ https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/9e858603-0be
 <img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/329cd970-ad09-404e-b787-c24ab5dc110c" height=65% width=22%>
 <img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/e7077a45-08e5-4739-bc82-91545ab79d6e" height=65% width=22%>
 
+# 17.4 Toggle View
+
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/d6ef91ff-78d4-4aa3-b9e2-8cf268a89d65" height=65% width=22%>
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/fa222b4c-4521-4015-8b26-85046c0881dd" height=65% width=22%>
+
+https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/e3030ba0-706f-47ef-86b3-40138c06fa9c
+
+
