@@ -120,3 +120,9 @@ https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/0ec0bdc9-4d8
 <img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/eb05e657-0af8-4173-87cb-a5e849027cef" height=65% width=22%>
 
 https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/9e858603-0be7-4c6b-b6e5-e1ae4f607101
+
+# 17.3 Random Quotes
+
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/329cd970-ad09-404e-b787-c24ab5dc110c" height=65% width=22%>
+<img src="https://github.com/Sahilk0809/quote_app_daily_task/assets/149374235/e7077a45-08e5-4739-bc82-91545ab79d6e" height=65% width=22%>
+
